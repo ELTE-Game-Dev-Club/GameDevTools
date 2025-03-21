@@ -28,5 +28,3 @@
 - [Substance Painter]() (💰 on Steam) 🔒 🎒 
 
 
-
-- 
