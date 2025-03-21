@@ -7,12 +7,30 @@ This repository is open for anyone to contribute their finds through pull reques
 
 ## Legend Convention
 
+### License & Purchase Model
 - ✨ = Free & open-source 
 - ⭐ = Free of charge
 - 🎒 = Available throught ELTE student license
 - 💰 = One-time-purchase
 - 🔒 = Subscription for more functions
 - 👑 = Royalty
+
+### OS Availability
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+- ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+or
+
+- 🌐 = Web Browser
+- 🪟 = Windows
+- 🍎 = Mac
+- 📱 = iOS
+- 🐧 = Linux
+- 🤖 = Android
+
 
 ## Other Resources
 
