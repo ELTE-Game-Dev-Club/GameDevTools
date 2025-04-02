@@ -36,7 +36,12 @@
 ## Image Editing
 
 - ✨ | [Gimp](https://www.gimp.org/) | 🪟 🐧
+- ✨ | [Pinta](https://www.pinta-project.com/) | 🪟 🍎 🐧
 
 ## SVG Editing
 
 - ✨ | [Inkscape](https://inkscape.org/) | 🪟 🐧
+
+## Image & 2D Asset Generation
+
+- ✨ | [Spacescape](http://alexcpeterson.com/spacescape/) | 🪟 - Skybox generator

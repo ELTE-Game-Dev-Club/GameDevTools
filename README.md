@@ -10,7 +10,7 @@ This repository is open for anyone to contribute their finds through pull reques
 ### License & Purchase Model
 - ✨ = Free & open-source 
 - ⭐ = Free of charge
-- 🎒 = Available throught ELTE student license
+- 🎒 = Available through the ELTE student license
 - 💰 = One-time-purchase
 - 🔒 = Subscription for more functions
 - 👑 = Royalty
